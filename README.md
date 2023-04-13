@@ -1,5 +1,5 @@
 # myFirstRepository
-I made this repo for Front-End tutorial from [Kodluyoruz](https://kodluyoruz.org/) and this is my first repository. This repo have one README file, it also contains one index.html file.
+I made this repo for Front-End tutorial from [Kodluyoruz](https://kodluyoruz.org/) and this is my first repository. This repo have one README file, it also contains one index.html file.<br>
 ![Image](https://raw.githubusercontent.com/TriTetra/myFirstRepository/main/Figures/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)	
 
 ## Installation
